@@ -2,6 +2,8 @@
 
 A Home Assistant custom integration for PixelAir devices (Fluora, Monos, and more) by Light+Color.
 
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=acvigue&repository=homeassistant-pixelair&category=integration)
+
 ## Features
 
 - Automatic device discovery on your local network
