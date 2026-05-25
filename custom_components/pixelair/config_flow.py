@@ -14,7 +14,7 @@ from typing import Any
 from libpixelair import DiscoveredDevice, DiscoveryService, UDPListener
 import voluptuous as vol
 
-from homeassistant.components.dhcp import DhcpServiceInfo
+from homeassistant.helpers.service_info.dhcp import DhcpServiceInfo
 from homeassistant.config_entries import ConfigFlow, ConfigFlowResult
 from homeassistant.const import CONF_NAME
 
